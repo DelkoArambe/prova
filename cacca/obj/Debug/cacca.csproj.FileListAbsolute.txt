@@ -1,0 +1,7 @@
+C:\Users\4SER\source\repos\cacca\cacca\bin\Debug\cacca.exe.config
+C:\Users\4SER\source\repos\cacca\cacca\bin\Debug\cacca.exe
+C:\Users\4SER\source\repos\cacca\cacca\bin\Debug\cacca.pdb
+C:\Users\4SER\source\repos\cacca\cacca\obj\Debug\cacca.csprojAssemblyReference.cache
+C:\Users\4SER\source\repos\cacca\cacca\obj\Debug\cacca.csproj.CoreCompileInputs.cache
+C:\Users\4SER\source\repos\cacca\cacca\obj\Debug\cacca.exe
+C:\Users\4SER\source\repos\cacca\cacca\obj\Debug\cacca.pdb
